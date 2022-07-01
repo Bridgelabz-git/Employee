@@ -1,1 +1,1 @@
-this is the deployment script..
+hello how are you
